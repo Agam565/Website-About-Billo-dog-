@@ -1,0 +1,103 @@
+* {
+    box-sizing: border-box;
+  }
+h1{
+color:#C4A484;
+font-family:"verdana";
+font-size:50px;
+text-align:center;
+}
+.littleBilloOnDesk{
+display:block;
+margin-left:auto;
+margin-right:auto;
+text-align:center;
+}
+#introduction{
+font-size:25px;
+}
+#introductionWord{
+color:red;
+font-family:"pacifico";
+font-size:37px;
+    }
+    #hobbies{
+        color:red;
+        font-family:"pacifico";
+        font-size:37px;
+            }
+            #fears{
+                color:red;
+                font-family:"pacifico";
+                font-size:37px;
+                    }
+                    #fearsParagraph{
+                        font-size:25px;
+                        }
+                        #picturesWord{
+                            color:red;
+                            font-family:"pacifico";
+                            font-size:37px;
+                            text-align:center;
+                        }
+#captionAboutTinyBillo{
+text-align:center;
+color:rgb(220, 31, 183)
+}
+#captionAboutBilloBirthday{
+color:rgb(220, 31, 183);
+text-align:center;
+}
+.flex-container {
+    display: flex;
+  }
+  .flex-container > div {
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+  }
+mark-weird{
+background-color: lawngreen
+}
+mark-bizzare{
+background-color: #CCCCFF;
+}
+mark-personalassistant{
+background-color: aqua;
+}
+ul.b {
+    list-style-position: outside;
+    text-align: center;
+}
+.hobbiesbulletpoint{
+    font-size: 25px;
+    font-family: "Open Sans"
+}
+
+.column {
+    float: left;
+    width: 20%;
+    padding: 5px;
+  }
+  
+  /* Clearfix (clear floats) */
+  .row{
+    content: "";
+    clear: both;
+    display: table;
+  }
+  #imgBilloChewingPillow{
+    margin-right:20%;
+ }
+ #breederLink{
+    font-size: 25px;
+    font-family: "Open Sans"
+ }
+.imgSanjam{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center;
+}
